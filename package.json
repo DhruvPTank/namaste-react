@@ -1,0 +1,23 @@
+{
+  "name": "react_training",
+  "version": "1.0.0",
+  "description": "basic react project from namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvPTank/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Dhruv Tank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhruvPTank/namaste-react/issues"
+  },
+  "homepage": "https://github.com/DhruvPTank/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
